@@ -34,18 +34,18 @@
 
 # 📖 Portfolio <a name="about-project"></a>
 
-> My Portfolio
+> Bootstrap implementation in My Portfolio
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML and CSS have been used so far
+> Bootstrap 
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML/CSS</li>
+    <li>Bootstrap</li>
   </ul>
 </details>
 <!-- live demo -->
@@ -80,7 +80,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/RHK-MICROVERSE/My-Portfolio
+  https://github.com/RHK-MICROVERSE/portfolio-basedon-bootstrap
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -108,7 +108,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/RHK-MICROVERSE/My-Portfolio/issues).
+Feel free to check the [issues page](https://github.com/RHK-MICROVERSE/portfolio-basedon-bootstrap/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
